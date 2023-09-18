@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e631fe65419bf542",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,10 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c440a1e65eff465",
+  "active": "e631fe65419bf542",
   "lastOpenFiles": [
-    "Test.md",
     "First file.md",
+    "Test.md",
     "testFolder/Test.md",
     "testFolder/First file.md",
     "testFolder"
