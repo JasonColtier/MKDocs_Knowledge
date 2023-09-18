@@ -1,3 +1,5 @@
+#to_link
+
 New content 
 
 What do I want obsidian to do ? 
