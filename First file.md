@@ -5,6 +5,7 @@ What do I want obsidian to do ?
 - provide c++ learning material 
 - organise my notes 
 
+- new content
 
 # Sources
 
