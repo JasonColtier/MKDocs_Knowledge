@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
+                "file": "2023-09-18.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "2023-09-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "2023-09-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "2023-09-18.md"
               }
             }
           },
@@ -157,11 +157,11 @@
   },
   "active": "179f1bde0bae5462",
   "lastOpenFiles": [
+    "Home.md",
     "Programming/Git/Unreal/Unreal Home.md",
     "conflict-files-obsidian-git.md",
     "Programming/Git/Unreal/AndroidSpecifics.md",
     "2023-09-18.md",
-    "Home.md",
     "Test.md",
     "First file.md",
     "Programming/Git/Unreal",
