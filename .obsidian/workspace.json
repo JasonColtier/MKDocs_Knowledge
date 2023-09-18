@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "First file.md",
+                "file": "Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "First file.md",
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "First file.md",
+                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,11 +135,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "First file.md"
+                "file": "Test.md"
               }
             }
+          },
+          {
+            "id": "6ba3fd33c369fcc7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -156,7 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e631fe65419bf542",
+  "active": "0c440a1e65eff465",
   "lastOpenFiles": [
     "First file.md",
     "Test.md",
