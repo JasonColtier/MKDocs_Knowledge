@@ -79,10 +79,11 @@
             "id": "5b95b85f18a5b582",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "2023-09-18.md",
-                "staged": true
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -153,6 +154,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "2023-09-18.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,6 +171,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "2023-09-18.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -179,7 +182,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "2023-09-18.md"
+          }
         }
       },
       {
@@ -204,7 +209,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b95b85f18a5b582",
+  "active": "590112838d658d3f",
   "lastOpenFiles": [
     "2023-09-18.md",
     "conflict-files-obsidian-git.md",
