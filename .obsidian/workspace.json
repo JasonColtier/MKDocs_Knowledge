@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-09-18.md",
+                "file": "2.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-09-18.md",
+                "file": "2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-09-18.md",
+                "file": "2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-09-18.md"
+                "file": "2.md"
               }
             }
           },
@@ -135,6 +135,16 @@
             "state": {
               "type": "git-view",
               "state": {}
+            }
+          },
+          {
+            "id": "5a12cd45fbd24b59",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -157,10 +167,10 @@
   },
   "active": "8dc99d33f6b4f6ac",
   "lastOpenFiles": [
+    "First file.md",
+    "2.md",
     "Test.md",
     "Home.md",
-    "First file.md",
-    "2023-09-18.md",
     "Programming/Git/Unreal",
     "Programming/Git",
     "Programming",
